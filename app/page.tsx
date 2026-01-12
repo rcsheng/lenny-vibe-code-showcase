@@ -17,7 +17,7 @@ export default async function Home() {
       <div className="container mx-auto px-4 py-12 max-w-7xl">
         <header className="text-center mb-16">
           <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
-            Lenny's Newsletter Vibe Code Showcase
+            Lenny&apos;s Newsletter Vibe Code Showcase
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto mb-2">
             Discover amazing projects built by non-technical creators using AI tools
@@ -30,7 +30,7 @@ export default async function Home() {
               rel="noopener noreferrer"
               className="text-purple-600 dark:text-purple-400 hover:underline font-large"
             >
-              Lenny's Newsletter
+              Lenny&apos;s Newsletter
             </a>
           </p>
           <p className="text-sm text-gray-500 dark:text-gray-400 mb-3">

@@ -50,3 +50,6 @@ __pycache__/
 # temporary files
 extracted_sites.json
 extract_sites.py
+
+# original site files
+original_site/
