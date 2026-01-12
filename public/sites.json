@@ -1,0 +1,375 @@
+[
+  {
+    "id": "carbscan-ai",
+    "title": "CarbScan AI",
+    "creator": "Morgan Brown",
+    "creator_url": "https://www.linkedin.com/in/morganb/",
+    "description": "Carb counter",
+    "url": "http://carbscan.ai/",
+    "image": "/images/replit-logo.png",
+    "tags": [
+      "health",
+      "ai",
+      "nutrition"
+    ],
+    "featured": false
+  },
+  {
+    "id": "lash-map-tracker",
+    "title": "Lash Map Tracker",
+    "creator": "Jackie Bavaro",
+    "creator_url": "https://x.com/jackiebo/",
+    "description": "Lash tracker",
+    "url": "https://lash-map-tracker.replit.app/",
+    "image": "/images/replit-logo.png",
+    "tags": [
+      "beauty",
+      "productivity",
+      "tool"
+    ]
+  },
+  {
+    "id": "howmanylayers",
+    "title": "How Many Layers Today",
+    "creator": "Vijith Quadros",
+    "creator_url": "https://x.com/vijithq/",
+    "description": "How many layers should I wear today?",
+    "url": "https://howmanylayersidag.se/",
+    "image": "/images/lovable-logo.png",
+    "tags": [
+      "lifestyle",
+      "weather",
+      "fun"
+    ]
+  },
+  {
+    "id": "stupidly-specific-workout-app",
+    "title": "Workout App",
+    "creator": "Faraz Khan",
+    "creator_url": "https://x.com/farazKhan404",
+    "description": "A “stupidly specific” workout app",
+    "url": "https://x.com/farazKhan404",
+    "image": "/images/vercel-logo.png",
+    "tags": [
+      "workout"
+    ]
+  },
+  {
+    "id": "mealmuse-ai",
+    "title": "MealMuse AI",
+    "creator": "Nick Markman",
+    "creator_url": "https://www.linkedin.com/in/nickmarkman/",
+    "description": "Upload photos of your fridge/pantry/receipts (or use voice) to detect ingredients you have at home and generate recipes.",
+    "url": "http://mealmuse.ai/",
+    "image": "/images/lovable-logo.png",
+    "tags": [
+      "food",
+      "planning"
+    ],
+    "featured": false
+  },
+  {
+    "id": "flowbound",
+    "title": "Flowbound",
+    "creator": "Su",
+    "creator_url": "https://x.com/su_dreams",
+    "description": "Find out what’s blocking your flow",
+    "url": "https://www.flowbound.app/",
+    "image": "/images/bolt-logo.png",
+    "tags": [
+      "productivity",
+      "focus",
+      "tool"
+    ]
+  },
+  {
+    "id": "paddles-ai",
+    "title": "Paddles AI",
+    "creator": "Jacob Jolibois",
+    "creator_url": "https://www.linkedin.com/in/jolibois/",
+    "description": "Pickleball games tracker",
+    "url": "https://www.paddles.ai/",
+    "image": "/images/replit-logo.png",
+    "tags": [
+      "sports",
+      "training"
+    ]
+  },
+  {
+    "id": "nicotine-pouch-tracker",
+    "title": "Nicotine Pouch Tracker",
+    "creator": "Thatcher",
+    "creator_url": "https://x.com/thatchhh",
+    "description": "Nicotine pouch tracker",
+    "url": "https://apps.apple.com/us/app/nicotine-pouch-tracker-pouched/id6740014859?itscg=30200&itsct=apps_box_link&mttnsubad=6740014859",
+    "image": "/images/cursor-logo.png",
+    "tags": [
+      "health"
+    ]
+  },
+  {
+    "id": "storypot",
+    "title": "The Story Pot",
+    "creator": "Akshan Ish",
+    "creator_url": "https://x.com/akshanish",
+    "description": "Create stories by dragging emoji into a pot",
+    "url": "https://app.thestorypot.com/",
+    "image": "/images/replit-logo.png",
+    "tags": [
+      "creative",
+      "writing",
+      "collaboration"
+    ]
+  },
+  {
+    "id": "money-mamagement",
+    "title": "Mone Management for Kids",
+    "creator": "Sanjeev Nair",
+    "creator_url": "https://x.com/sanjeevn72",
+    "description": "Help kids learn about money management",
+    "url": "https://claude.ai/public/artifacts/f4a86536-5062-4570-a8ef-5a93e6bf671f/",
+    "image": "/images/claude-logo.png",
+    "tags": [
+      "kids",
+      "finance"
+    ]
+  },
+  {
+    "id": "timeless-memories",
+    "title": "Timeless Memories",
+    "creator": "Oren Saban",
+    "creator_url": "https://www.linkedin.com/in/oren-saban/",
+    "description": "Turn family photos into videos",
+    "url": "https://timelessmemories.me/",
+    "image": "/images/bolt-logo.png",
+    "tags": [
+      "memory",
+      "family",
+      "personal"
+    ]
+  },
+  {
+    "id": "mybabylogger",
+    "title": "My Baby Logger",
+    "creator": "Javier Evelyn",
+    "creator_url": "https://x.com/hah_vee_AIR",
+    "description": "Baby care tracking",
+    "url": "https://mybabylogger.com/",
+    "image": "/images/lovable-logo.png",
+    "tags": [
+      "parenting",
+      "health",
+      "tracking"
+    ],
+    "featured": false
+  },
+  {
+    "id": "chores-ai",
+    "title": "Chores AI",
+    "creator": "Ben Ogren",
+    "creator_url": "https://x.com/benogren",
+    "description": "A chore app for kids",
+    "url": "https://www.chores-ai.com/",
+    "image": "/images/vercel-logo.png",
+    "tags": [
+      "productivity",
+      "family"
+    ]
+  },
+  {
+    "id": "stories-of-life",
+    "title": "Stories of Life",
+    "creator": "Harshitha P.",
+    "creator_url": "https://www.linkedin.com/in/harshitha-p-991776149/",
+    "description": "A bedtime storytelling app",
+    "url": "https://stories-of-life.vercel.app/",
+    "image": "/images/bolt-logo.png",
+    "tags": [
+      "personal",
+      "storytelling",
+      "memory"
+    ]
+  },
+  {
+    "id": "jenicards",
+    "title": "JeniCards",
+    "creator": "Bob Sheth",
+    "creator_url": "https://x.com/bobsheth",
+    "description": "Personalized greeting card generator",
+    "url": "https://jenicards.com/cards",
+    "image": "/images/cursor-logo.png",
+    "tags": [
+      "creative",
+      "design",
+      "cards"
+    ]
+  },
+  {
+    "id": "standup-buddy",
+    "title": "Standup Buddy",
+    "creator": "Marissa Goldberg",
+    "creator_url": "https://x.com/mar15sa",
+    "description": "Meeting prep automation",
+    "url": "https://ideakitchen.substack.com/p/ai-recipe-create-your-own-meeting",
+    "image": "/images/zapier-logo.png",
+    "tags": [
+      "productivity",
+      "team",
+      "meetings"
+    ]
+  },
+  {
+    "id": "standup-randomizer",
+    "title": "Standup Order Randomizer",
+    "creator": "Rob Balderstone",
+    "creator_url": "https://www.linkedin.com/in/robbalderstone/",
+    "description": "Standup order randomizer",
+    "url": "https://standup-buddy.lovable.app/",
+    "image": "/images/lovable-logo.png",
+    "tags": [
+      "productivity",
+      "team",
+      "meetings"
+    ]
+  },
+  {
+    "id": "wisdemic-time",
+    "title": "Wisdemic Time",
+    "creator": "Asif",
+    "creator_url": "https://x.com/asifkabeer",
+    "description": "Time tracking tool",
+    "url": "https://time.wisdemic.com/",
+    "image": "/images/warp-logo.png",
+    "tags": [
+      "productivity",
+      "time-tracking",
+      "analytics"
+    ]
+  },
+  {
+    "id": "goaccomplishit",
+    "title": "Go Accomplish It",
+    "creator": "Kevin Kirkpatrick",
+    "creator_url": "https://www.linkedin.com/in/kevinkandco/",
+    "description": "Accomplishment tracker",
+    "url": "https://www.goaccomplishit.com/",
+    "image": "/images/lovable-logo.png",
+    "tags": [
+      "productivity",
+      "goals",
+      "motivation"
+    ]
+  },
+  {
+    "id": "buzzerbee",
+    "title": "BuzzerBee",
+    "creator": "Darren Rulofs",
+    "creator_url": "https://www.linkedin.com/in/darrenrulofs/",
+    "description": "Automatically answers your apartment buzzer calls",
+    "url": "https://buzzerbee.app/",
+    "image": "/images/bolt-logo.png",
+    "tags": [
+      "games",
+      "trivia",
+      "fun"
+    ]
+  },
+  {
+    "id": "bill-split",
+    "title": "Bill Split",
+    "creator": "Shashikiran Devadiga",
+    "creator_url": "https://www.linkedin.com/in/shashikirandevadiga/",
+    "description": "Bill splitter",
+    "url": "https://my-bill-split-project.lovable.app/",
+    "image": "/images/lovable-logo.png",
+    "tags": [
+      "finance",
+      "tool",
+      "utility"
+    ],
+    "platform": "lovable"
+  },
+  {
+    "id": "curated-now",
+    "title": "Curated Now",
+    "creator": "Lani Young",
+    "creator_url": "https://www.linkedin.com/in/lani-young/",
+    "description": "A personalized restaurant recommendation app for friends",
+    "url": "http://www.curated.now/",
+    "image": "/images/replit-logo.png",
+    "tags": [
+      "content",
+      "curation",
+      "discovery"
+    ]
+  },
+  {
+    "id": "berryplush-talk",
+    "title": "BerryPlush Talk",
+    "creator": "Alex Mathew",
+    "creator_url": "https://x.com/alxmthew",
+    "description": "Daily newsletter to help you learn a language",
+    "url": "https://talk.berryplush.com/",
+    "image": "/images/replit-logo.png",
+    "tags": [
+      "communication",
+      "chat",
+      "social"
+    ]
+  },
+  {
+    "id": "fyredrill",
+    "title": "Fyre Drill",
+    "creator": "Steven Newstead",
+    "creator_url": "https://www.linkedin.com/in/steven-newstead-33547414/",
+    "description": "Curate the perfect playlist for your next festival road trip",
+    "url": "https://www.fyredrill.dev/",
+    "image": "/images/vercel-logo.png",
+    "tags": [
+      "developer",
+      "tools",
+      "utility"
+    ]
+  },
+  {
+    "id": "splintr",
+    "title": "Splintr",
+    "creator": "Scott Korchinski",
+    "creator_url": "https://www.linkedin.com/in/scottkorchinski/",
+    "description": "A music production tool to inspire new ideas",
+    "url": "https://splintr.dreamgazeraudio.com/",
+    "image": "/images/vercel-logo.png",
+    "tags": [
+      "audio",
+      "music",
+      "tool"
+    ]
+  },
+  {
+    "id": "rehearsal-so",
+    "title": "Rehearsal",
+    "creator": "Jean Kaddour",
+    "creator_url": "https://www.jeankaddour.com/",
+    "description": "An RPG game",
+    "url": "https://rehearsal.so/",
+    "image": "/images/cursor-logo.png",
+    "tags": [
+      "rpg",
+      "game"
+    ]
+  },
+  {
+    "id": "visamonkey",
+    "title": "Visa Monkey",
+    "creator": "Shree",
+    "creator_url": "https://x.com/sreeenidhi",
+    "description": "Immigration document manager",
+    "url": "http://visamonkey.com/",
+    "image": "/images/vercel-logo.png",
+    "tags": [
+      "travel",
+      "visa",
+      "planning"
+    ]
+  }
+]
